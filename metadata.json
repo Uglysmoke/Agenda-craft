@@ -1,0 +1,7 @@
+{
+  "name": "AgendaCraft AI",
+  "description": "Transform any document into a structured, professional meeting agenda with a visual timeline, stakeholder analysis, and an integrated AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
